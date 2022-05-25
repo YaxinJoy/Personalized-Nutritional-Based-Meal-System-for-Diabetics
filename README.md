@@ -11,7 +11,7 @@ Diabetes is a common chronic disease, which was the eighth directing factor of d
   The food data is collected from **USDA National Nutrient Database** (retrieved from [Kaggle](https://www.kaggle.com/datasets/haithemhermessi/usda-national-nutrient-database)). 
   The food data is cleaned by using AHPSort (multi-criteria decision analysis tool) to filter out food that is not suitable for diabetic patients.
   
-  The user data is generated randomly. It records the gender, age (18~50), height (female: 150~175, male: 160~185， unit: cm), weight (female: 40~70, male: 50~80, unit: kg), and the food information he/she has taken (ID, name, frequency), last consumed time for each taken food.
+  The user data is generated randomly. It records the gender, age (18-50), height (female: 150-175, male: 160-185， unit: cm), weight (female: 40-70, male: 50-80, unit: kg), and the food information he/she has taken (ID, name, frequency), last consumed time for each taken food.
   
 2. Data processing 
 
