@@ -1,0 +1,101 @@
+,index,name,gender,height_cm,weight_kg,age,food ID,Descrip,last eat timestamp,frequency_day
+0,4800,Priscilla,female,150,67,31,28016.0,"KELLOGG'S, EGGO Protein, Waffles, Homestyle",2022-03-04 23:29:49,1
+1,4801,Priscilla,female,150,67,31,28167.0,"KELLOGG'S, POP-TARTS, Frosted Cinnamon Roll Toaster Pastries",2022-03-02 02:12:02,2
+2,4802,Priscilla,female,150,67,31,15268.0,"Fish, cod, Pacific, untreated, raw",2022-03-07 21:44:34,1
+3,4803,Priscilla,female,150,67,31,28293.0,"Cookie, butter or sugar, with chocolate icing or filling",2022-03-03 10:24:44,3
+4,4804,Priscilla,female,150,67,31,1179.0,"Sour cream, light",2022-03-07 10:10:18,1
+5,4805,Priscilla,female,150,67,31,28167.0,"KELLOGG'S, POP-TARTS, Frosted Cinnamon Roll Toaster Pastries",2022-03-08 17:58:18,1
+6,4806,Priscilla,female,150,67,31,1083.0,"Milk, lowfat, fluid, 1% milkfat, with added nonfat milk solids, vitamin A and vitamin D",2022-03-07 01:12:44,1
+7,4807,Priscilla,female,150,67,31,9434.0,"Guanabana nectar, canned",2022-03-02 11:24:00,1
+8,4808,Priscilla,female,150,67,31,15268.0,"Fish, cod, Pacific, untreated, raw",2022-03-04 22:52:44,3
+9,4809,Priscilla,female,150,67,31,43312.0,"Vegetables, mixed (corn, lima beans, peas, green beans, carrots) canned, no salt added",2022-03-03 00:01:47,1
+10,4810,Priscilla,female,150,67,31,14318.0,"Malted drink mix, chocolate, powder, prepared with whole milk",2022-03-02 09:04:58,2
+11,4811,Priscilla,female,150,67,31,19408.0,"Snacks, pork skins, barbecue-flavor",2022-03-03 02:28:59,3
+12,4812,Priscilla,female,150,67,31,8123.0,"Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)",2022-03-08 14:35:33,2
+13,4813,Priscilla,female,150,67,31,43378.0,"Pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium",2022-03-05 15:01:49,3
+14,4814,Priscilla,female,150,67,31,11738.0,"Broadbeans, immature seeds, cooked, boiled, drained, with salt",2022-03-06 11:20:15,1
+15,4815,Priscilla,female,150,67,31,28167.0,"KELLOGG'S, POP-TARTS, Frosted Cinnamon Roll Toaster Pastries",2022-03-07 00:01:42,1
+16,4816,Priscilla,female,150,67,31,9017.0,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",2022-03-03 12:55:01,2
+17,4817,Priscilla,female,150,67,31,18271.0,"Ice cream cones, cake or wafer-type",2022-03-02 10:33:20,1
+18,4818,Priscilla,female,150,67,31,8123.0,"Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)",2022-03-03 11:23:56,2
+19,4819,Priscilla,female,150,67,31,42136.0,"Cream substitute, powdered, light",2022-03-01 21:56:58,1
+20,4820,Priscilla,female,150,67,31,28236.0,"SUNSHINE, CHEEZ-IT, BIG Crackers",2022-03-01 20:39:52,3
+21,4821,Priscilla,female,150,67,31,18253.0,"Doughnuts, french crullers, glazed",2022-03-01 18:50:32,2
+22,4822,Priscilla,female,150,67,31,1229.0,"Cheese, white, queso blanco",2022-03-05 07:56:07,3
+23,4823,Priscilla,female,150,67,31,9017.0,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",2022-03-08 01:02:46,2
+24,4824,Priscilla,female,150,67,31,9362.0,"Cherries, sour, canned, water pack, drained",2022-03-08 19:17:41,3
+25,4825,Priscilla,female,150,67,31,1229.0,"Cheese, white, queso blanco",2022-03-04 14:43:43,3
+26,4826,Priscilla,female,150,67,31,18961.0,"Crackers, cream, GAMESA SABROSAS",2022-03-02 22:34:12,2
+27,4827,Priscilla,female,150,67,31,1010.0,"Cheese, cheshire",2022-03-08 11:43:08,1
+28,4828,Priscilla,female,150,67,31,1083.0,"Milk, lowfat, fluid, 1% milkfat, with added nonfat milk solids, vitamin A and vitamin D",2022-03-08 05:02:03,3
+29,4829,Priscilla,female,150,67,31,43378.0,"Pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium",2022-03-01 08:31:22,2
+30,4830,Priscilla,female,150,67,31,8123.0,"Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)",2022-03-07 10:07:39,3
+31,4831,Priscilla,female,150,67,31,11758.0,"Carrots, canned, no salt added, solids and liquids",2022-03-03 22:10:47,3
+32,4832,Priscilla,female,150,67,31,8123.0,"Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)",2022-03-01 16:34:18,1
+33,4833,Priscilla,female,150,67,31,1010.0,"Cheese, cheshire",2022-03-02 23:23:55,1
+34,4834,Priscilla,female,150,67,31,8123.0,"Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)",2022-03-02 12:05:54,2
+35,4835,Priscilla,female,150,67,31,11467.0,"Squash, summer, crookneck and straightneck, raw",2022-03-02 18:02:02,2
+36,4836,Priscilla,female,150,67,31,19069.0,"Candies, NESTLE, BUTTERFINGER Bar",2022-03-07 09:04:30,3
+37,4837,Priscilla,female,150,67,31,18961.0,"Crackers, cream, GAMESA SABROSAS",2022-03-08 14:00:25,2
+38,4838,Priscilla,female,150,67,31,18961.0,"Crackers, cream, GAMESA SABROSAS",2022-03-07 17:02:56,1
+39,4839,Priscilla,female,150,67,31,1010.0,"Cheese, cheshire",2022-03-03 17:27:48,1
+40,4840,Priscilla,female,150,67,31,11467.0,"Squash, summer, crookneck and straightneck, raw",2022-03-08 02:26:40,3
+41,4841,Priscilla,female,150,67,31,42136.0,"Cream substitute, powdered, light",2022-03-03 16:29:40,1
+42,4842,Priscilla,female,150,67,31,8123.0,"Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)",2022-03-06 13:33:22,2
+43,4843,Priscilla,female,150,67,31,15268.0,"Fish, cod, Pacific, untreated, raw",2022-03-01 12:52:50,2
+44,4844,Priscilla,female,150,67,31,28167.0,"KELLOGG'S, POP-TARTS, Frosted Cinnamon Roll Toaster Pastries",2022-03-04 23:50:12,2
+45,4845,Priscilla,female,150,67,31,1229.0,"Cheese, white, queso blanco",2022-03-03 22:34:54,3
+46,4846,Priscilla,female,150,67,31,1281.0,"Yogurt, Greek, non fat, strawberry, CHOBANI",2022-03-05 06:14:30,1
+47,4847,Priscilla,female,150,67,31,28167.0,"KELLOGG'S, POP-TARTS, Frosted Cinnamon Roll Toaster Pastries",2022-03-01 15:51:06,2
+48,4848,Priscilla,female,150,67,31,1179.0,"Sour cream, light",2022-03-02 09:37:09,3
+49,4849,Priscilla,female,150,67,31,43378.0,"Pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium",2022-03-07 06:14:18,1
+50,4850,Priscilla,female,150,67,31,9017.0,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",2022-03-05 18:25:12,3
+51,4851,Priscilla,female,150,67,31,8123.0,"Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)",2022-03-05 23:27:49,2
+52,4852,Priscilla,female,150,67,31,36006.0,"T.G.I. FRIDAY'S, FRIDAY'S Shrimp, breaded",2022-03-08 03:14:44,1
+53,4853,Priscilla,female,150,67,31,9041.0,"Bananas, dehydrated, or banana powder",2022-03-08 00:17:08,3
+54,4854,Priscilla,female,150,67,31,43378.0,"Pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium",2022-03-02 22:02:40,3
+55,4855,Priscilla,female,150,67,31,9434.0,"Guanabana nectar, canned",2022-03-06 06:09:09,3
+56,4856,Priscilla,female,150,67,31,1229.0,"Cheese, white, queso blanco",2022-03-02 02:18:19,3
+57,4857,Priscilla,female,150,67,31,18253.0,"Doughnuts, french crullers, glazed",2022-03-02 18:28:45,3
+58,4858,Priscilla,female,150,67,31,15268.0,"Fish, cod, Pacific, untreated, raw",2022-03-02 18:58:35,2
+59,4859,Priscilla,female,150,67,31,1179.0,"Sour cream, light",2022-03-04 12:00:04,3
+60,4860,Priscilla,female,150,67,31,42136.0,"Cream substitute, powdered, light",2022-03-02 03:42:08,2
+61,4861,Priscilla,female,150,67,31,1010.0,"Cheese, cheshire",2022-03-04 09:26:30,1
+62,4862,Priscilla,female,150,67,31,9434.0,"Guanabana nectar, canned",2022-03-05 06:41:10,1
+63,4863,Priscilla,female,150,67,31,8037.0,"Cereals ready-to-eat, granola, homemade",2022-03-07 21:56:57,3
+64,4864,Priscilla,female,150,67,31,11274.0,"Mustard spinach, (tendergreen), raw",2022-03-07 01:55:48,1
+65,4865,Priscilla,female,150,67,31,1010.0,"Cheese, cheshire",2022-03-06 23:40:49,2
+66,4866,Priscilla,female,150,67,31,9041.0,"Bananas, dehydrated, or banana powder",2022-03-06 13:14:07,2
+67,4867,Priscilla,female,150,67,31,18961.0,"Crackers, cream, GAMESA SABROSAS",2022-03-05 14:08:31,3
+68,4868,Priscilla,female,150,67,31,14318.0,"Malted drink mix, chocolate, powder, prepared with whole milk",2022-03-07 17:42:59,1
+69,4869,Priscilla,female,150,67,31,1010.0,"Cheese, cheshire",2022-03-07 18:40:45,1
+70,4870,Priscilla,female,150,67,31,42136.0,"Cream substitute, powdered, light",2022-03-05 16:12:13,3
+71,4871,Priscilla,female,150,67,31,20078.0,"Wheat germ, crude",2022-03-08 18:03:46,1
+72,4872,Priscilla,female,150,67,31,11802.0,"New zealand spinach, cooked, boiled, drained, with salt",2022-03-03 19:05:48,2
+73,4873,Priscilla,female,150,67,31,11018.0,"Asparagus, frozen, unprepared",2022-03-03 07:18:19,3
+74,4874,Priscilla,female,150,67,31,43378.0,"Pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium",2022-03-08 16:08:02,2
+75,4875,Priscilla,female,150,67,31,9017.0,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",2022-03-01 13:49:23,1
+76,4876,Priscilla,female,150,67,31,11130.0,"Carrots, frozen, unprepared",2022-03-07 19:40:53,1
+77,4877,Priscilla,female,150,67,31,14108.0,"Alcoholic Beverage, wine, table, red, Sangiovese",2022-03-02 13:10:55,2
+78,4878,Priscilla,female,150,67,31,9434.0,"Guanabana nectar, canned",2022-03-01 07:59:40,3
+79,4879,Priscilla,female,150,67,31,11349.0,Poi,2022-03-05 08:02:21,1
+80,4880,Priscilla,female,150,67,31,5040.0,"Chicken, broilers or fryers, light meat, meat only, cooked, fried",2022-03-02 05:27:17,3
+81,4881,Priscilla,female,150,67,31,9041.0,"Bananas, dehydrated, or banana powder",2022-03-01 11:38:52,1
+82,4882,Priscilla,female,150,67,31,42136.0,"Cream substitute, powdered, light",2022-03-04 04:35:34,3
+83,4883,Priscilla,female,150,67,31,9017.0,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",2022-03-04 01:34:52,3
+84,4884,Priscilla,female,150,67,31,9041.0,"Bananas, dehydrated, or banana powder",2022-03-02 04:15:51,2
+85,4885,Priscilla,female,150,67,31,11467.0,"Squash, summer, crookneck and straightneck, raw",2022-03-05 19:46:47,2
+86,4886,Priscilla,female,150,67,31,43378.0,"Pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium",2022-03-03 21:54:16,1
+87,4887,Priscilla,female,150,67,31,8123.0,"Cereals, oats, instant, fortified, plain, prepared with water (boiling water added or microwaved)",2022-03-04 08:02:38,2
+88,4888,Priscilla,female,150,67,31,11766.0,"Chayote, fruit, cooked, boiled, drained, with salt",2022-03-01 18:02:58,1
+89,4889,Priscilla,female,150,67,31,11467.0,"Squash, summer, crookneck and straightneck, raw",2022-03-07 18:49:21,3
+90,4890,Priscilla,female,150,67,31,18253.0,"Doughnuts, french crullers, glazed",2022-03-05 21:14:45,3
+91,4891,Priscilla,female,150,67,31,9434.0,"Guanabana nectar, canned",2022-03-07 18:07:44,1
+92,4892,Priscilla,female,150,67,31,18271.0,"Ice cream cones, cake or wafer-type",2022-03-06 21:34:13,3
+93,4893,Priscilla,female,150,67,31,9434.0,"Guanabana nectar, canned",2022-03-08 05:40:36,2
+94,4894,Priscilla,female,150,67,31,5292.0,"Turkey patties, breaded, battered, fried",2022-03-07 21:50:20,1
+95,4895,Priscilla,female,150,67,31,9017.0,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",2022-03-02 23:46:18,2
+96,4896,Priscilla,female,150,67,31,18253.0,"Doughnuts, french crullers, glazed",2022-03-08 00:52:22,2
+97,4897,Priscilla,female,150,67,31,18961.0,"Crackers, cream, GAMESA SABROSAS",2022-03-04 10:30:06,2
+98,4898,Priscilla,female,150,67,31,1179.0,"Sour cream, light",2022-03-06 21:58:27,2
+99,4899,Priscilla,female,150,67,31,43378.0,"Pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium",2022-03-04 19:41:30,3
