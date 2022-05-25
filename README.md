@@ -19,7 +19,7 @@ Diabetes is a common chronic disease, which was the eighth directing factor of d
 
   The system first randomly generates a daily meal plan (breakfast, lunch, dinner), filters the plan based on user BMR value, and then computes the recommended plan based on the weight table. By following these steps, the system is ensured to consider both nutritional knowledge and user preferences.
   
-  I also develop a simulated case study to add recent activities to one target user who is randomly chosen. The system traces 3 months of user activities and the average preference value is xxx, which is similar to the theoretical value provided by the research work of Yera et al.
+  I also develop a simulated case study to add recent activities to one target user who is randomly chosen. The system traces 3 months of user activities and the average preference value is 0.273, which is approximate to the theoretical value provided by the research work of Yera et al.
 
 3. Final Recommendation
 
